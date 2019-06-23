@@ -1,4 +1,4 @@
-# diplom
+# Multiple Person Tracking 
 Requirements:
 - Python 3.6
 - colormath  3.0.0
